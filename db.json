@@ -1,0 +1,326 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryid": 1,
+      "title": "Lighting Lamp",
+      "description": "Comfortable Lighting Lamp for your living room",
+      "slug": "lighting-lamp",
+      "image":"assets/img/products/product-9-1-270x360.jpg",
+      "gallery": [
+        "assets/img/products/product-9-1-270x360.jpg",
+        "assets/img/products/product-9-2-270x360.jpg"
+      ],
+      "desc": "Upholstered velvet ottoman with antique stud detailing. Invite restrained glamour and on-trend colour into your design scheme with the Eichholtz Ponti Ottoman. Inspired by the neo-classical influences of Italian icon, Gio Ponti, this contemporary ottoman collection is presented in a choice of velvet and linen colourways.",
+      "price": 110,
+      "status": {
+        "new_arrival": true,
+        "featured": false,
+        "on_sale": false
+      }
+    },
+    {
+      "id": 2,
+      "categoryid": 1,
+      "title": "Jane Lauren Design Chair",
+      "description": "Comfortable Jane Lauren Design Chair for your living room",
+      "slug": "jane-lauren-desing-chair",
+      "image":"assets/img/products/product-10-1-270x360.jpg",
+      "gallery": [
+        "assets/img/products/product-10-1-270x360.jpg",
+        "assets/img/products/product-10-2-270x360.jpg"
+      ],
+      "desc": "A delightful blend of fresh apples, perfect for any occasion.",
+      "price": 98,
+      "status": {
+        "new_arrival": false,
+        "featured": true,
+        "on_sale": false
+      }
+    },
+    {
+      "id": 3,
+      "categoryid": 1,
+      "title": "Jane Lauren Gregory Chair",
+      "description": "Comfortable Jane Lauren Gregory Chair for your living room",
+      "slug": "jane-lauren-desing-chair",
+      "image": "assets/img/products/product-11-1-270x360.jpg",
+      "gallery": [
+        "assets/img/products/product-11-1-270x360.jpg",
+        "assets/img/products/product-11-2-270x360.jpg"
+      ],
+      "desc": "A delightful blend of fresh apples, perfect for any occasion.",
+      "price": 90,
+      "status": {
+        "new_arrival": false,
+        "featured": false,
+        "on_sale": true
+      }
+    },
+    {
+      "id": 4,
+      "categoryid": 2,
+      "title": "Candice Desk Lamp",
+      "description": "Comfortable Candice Desk Lamp for your living room",
+      "slug": "candice-desk-lamp",
+      "image": "assets/img/products/product-12-1-270x360.jpg",
+      "gallery": [
+        "assets/img/products/product-12-1-270x360.jpg",
+        "assets/img/products/product-12-2-270x360.jpg"
+      ],
+      "desc": "Juicy and sweet peach slices, ready to be enjoyed.",
+      "price": 100 ,
+      "status": {
+        "new_arrival": true,
+        "featured": false,
+        "on_sale": false
+      }
+    },
+    {
+      "id": 5,
+      "categoryid": 2,
+      "title": "Ovora Step stool",
+      "description": "Comfortable Ovora Step stool for your living room",
+      "slug": "ovora-step-stool",
+      "image": "assets/img/products/product-13-1-270x360.jpg",
+      "gallery": [
+        "assets/img/products/product-13-1-270x360.jpg",
+        "assets/img/products/product-13-2-270x360.jpg"
+      ],
+      "desc": "A mix of delicious berries for a refreshing and antioxidant-rich treat.",
+      "price": 140,
+      "status": {
+        "new_arrival": false,
+        "featured": true,
+        "on_sale": false
+      }
+    },
+    {
+      "id": 6,
+      "categoryid": 2,
+      "title": "Jane Lauren Carson Chair",
+      "description": "Comfortable Jane Lauren Carson Chair for your living room",
+      "slug": "jane-lauren-carson-chair",
+      "image": "assets/img/products/product-14-1-270x360.jpg",
+      "gallery": [
+        "assets/img/products/product-14-1-270x360.jpg",
+        "assets/img/products/product-14-2-270x360.jpg"
+      ],
+      "desc": "Homemade boysenberry jam with a perfect balance of sweetness.",
+      "price": 145,
+      "status": {
+        "new_arrival": false,
+        "featured": false,
+        "on_sale": true
+      }
+    },
+    {
+      "id": 7,
+      "categoryid": 3,
+      "title": "Alexa Classic Towels",
+      "description": "Comfortable Alexa Classic Towels for your living room",
+      "slug": "alexa-classic-towels",
+      "image": "assets/img/products/product-15-1-270x360.jpg",
+      "gallery": [
+        "assets/img/products/product-15-1-270x360.jpg",
+        "assets/img/products/product-15-2-270x360.jpg"
+      ],
+      "desc": "Sun-dried organic pears, a healthy and natural snack.",
+      "price": 11,
+      "status": {
+        "new_arrival": true,
+        "featured": false,
+        "on_sale": false
+      }
+    },
+    {
+      "id": 8,
+      "categoryid": 3,
+      "title": "Olivia Shayn Cover Chair",
+      "description": "Comfortable Olivia Shayn Cover Chair for your living room",
+      "slug": "olivia-shayn-cover-chair",
+      "image": "assets/img/products/product-16-1-270x360.jpg",
+      "gallery": [
+        "assets/img/products/product-16-1-270x360.jpg",
+        "assets/img/products/product-16-2-270x360.jpg"
+      ],
+      "desc": "Tart and delicious cranberry sauce, perfect for holiday meals.",
+      "price": 98,
+      "status": {
+        "new_arrival": false,
+        "featured": true,
+        "on_sale": false
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Living Room",
+      "slug": "living-room"
+    },
+    {
+      "id": 2,
+      "title": "Outdoor",
+      "slug": "outdoor"
+    },
+    {
+      "id": 3,
+      "title": "Bedroom Lighting",
+      "slug":"bedroom-lighting"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Choosing the Perfect Sofa Set",
+      "short_description": "Tips for selecting the ideal sofa set for your living room",
+      "long_description": "In this blog post, we provide useful tips on choosing the perfect sofa set that suits your style and comfort preferences.",
+      "slug": "choosing-sofa-set",
+      "image": "",
+      "video": "https://www.youtube.com/embed/ICyhdkZLnY4?si=6v-n6jKZjYkMhJeX"
+    },
+    {
+      "id": 2,
+      "title": "Dining Room Decor Ideas",
+      "short_description": "Explore creative ideas to enhance your dining room decor",
+      "long_description": "Discover innovative ways to elevate the aesthetic appeal of your dining room with our latest decor ideas.",
+      "slug": "dining-room-decor",
+      "image": "assets/img/blog/slider/five-550x360.jpg",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "title": "Creating a Cozy Bedroom Retreat",
+      "short_description": "Transform your bedroom into a cozy and relaxing retreat",
+      "long_description": "Explore bedroom decor and design tips to create a comfortable and inviting space for relaxation.",
+      "slug": "cozy-bedroom-retreat",
+      "image": "",
+      "video": "https://www.youtube.com/embed/zWaMb0V7fUo?si=ZaqdYGJPmnRERGEb"
+    },
+    {
+      "id": 4,
+      "title": "Office Organization Hacks",
+      "short_description": "Maximize productivity with these office organization tips",
+      "long_description": "Discover clever hacks and ideas to keep your home office organized and efficient for a productive work environment.",
+      "slug": "office-organization-hacks",
+      "image": "assets/img/blog/slider/five-550x360.jpg",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "title": "Outdoor Furniture Trends for the Season",
+      "short_description": "Stay updated on the latest trends in outdoor furniture",
+      "long_description": "Explore the hottest trends in outdoor furniture design and create a stylish and comfortable outdoor living space.",
+      "slug": "outdoor-furniture-trends",
+      "image": "",
+      "video": "https://www.youtube.com/embed/6CV7CsGrgSE?si=zCug4nSp6ir4lDSz"
+    },
+    {
+      "id": 6,
+      "title": "Kids' Room Design Inspiration",
+      "short_description": "Create a playful and imaginative space for your little ones",
+      "long_description": "Get inspired by creative kids' room designs and find ideas to make your child's room a fun and functional space.",
+      "slug": "kids-room-design",
+      "image": "assets/img/blog/slider/five-550x360.jpg",
+      "video": ""
+    },
+    {
+      "id": 7,
+      "title": "Smart Storage Solutions for Small Spaces",
+      "short_description": "Maximize space with clever storage ideas",
+      "long_description": "Discover innovative storage solutions to make the most of limited space in your home, from small apartments to cozy rooms.",
+      "slug": "storage-solutions-small-spaces",
+      "image": "",
+      "video": "https://www.youtube.com/embed/YXr7CNdmEvQ?si=-NvM7K2-O6m0y4ld"
+    },
+    {
+      "id": 8,
+      "title": "Accent Furniture for a Stylish Home",
+      "short_description": "Enhance your home with chic accent furniture pieces",
+      "long_description": "Explore the world of accent furniture and learn how these stylish pieces can elevate the overall design of your home.",
+      "slug": "accent-furniture-stylish-home",
+      "image": "assets/img/blog/slider/five-550x360.jpg",
+      "video": ""
+    },
+    {
+      "id": 9,
+      "title": "Luxurious Bathroom Design Ideas",
+      "short_description": "Transform your bathroom into a spa-like retreat",
+      "long_description": "Discover luxurious bathroom design ideas and tips to create a serene and spa-like atmosphere in your own home.",
+      "slug": "luxurious-bathroom-design",
+      "image": "assets/img/blog/slider/five-550x360.jpg",
+      "video": ""
+    },
+    {
+      "id": 10,
+      "title": "Functional and Stylish Kitchen Islands",
+      "short_description": "Upgrade your kitchen with a stylish and functional island",
+      "long_description": "Explore different kitchen island designs and find inspiration to make your kitchen a more organized and stylish space.",
+      "slug": "kitchen-islands-design",
+      "image": "assets/img/blog/slider/five-550x360.jpg",
+      "video": ""
+    }
+  ],
+  "faq": [
+    {
+      "id": 1,
+      "title": "How to Clean and Maintain Wooden Furniture",
+      "content": "Learn effective ways to clean and maintain your wooden furniture for long-lasting beauty."
+    },
+    {
+      "id": 2,
+      "title": "Choosing the Right Material for Furniture",
+      "content": "Explore different materials used in furniture construction and choose the one that suits your preferences."
+    },
+    {
+      "id": 3,
+      "title": "Tips for Arranging Living Room Furniture",
+      "content": "Get advice on arranging your living room furniture for a comfortable and aesthetically pleasing layout."
+    },
+    {
+      "id": 4,
+      "title": "Caring for Leather Upholstery",
+      "content": "Discover tips on caring for and maintaining leather upholstery to keep it looking pristine over time."
+    },
+    {
+      "id": 5,
+      "title": "How to Select the Right Dining Table Size",
+      "content": "Learn how to choose the appropriate size for your dining table to accommodate your space and seating needs."
+    },
+    {
+      "id": 6,
+      "title": "Advice on Picking the Perfect Mattress",
+      "content": "Get guidance on selecting the right mattress to ensure a good night's sleep and proper support."
+    },
+    {
+      "id": 7,
+      "title": "Organizing Tips for Small Bedrooms",
+      "content": "Explore creative ways to maximize storage and organization in small bedroom spaces."
+    },
+    {
+      "id": 8,
+      "title": "Common Mistakes to Avoid in Home Decor",
+      "content": "Discover common pitfalls to avoid when decorating your home to achieve a cohesive and stylish look."
+    },
+    {
+      "id": 9,
+      "title": "Understanding Furniture Styles",
+      "content": "Learn about different furniture styles and find the one that resonates with your personal taste and home decor."
+    },
+    {
+      "id": 10,
+      "title": "How to Choose the Right Rug for Your Space",
+      "content": "Get tips on selecting the perfect rug to complement your room's decor and add warmth to the space."
+    }
+  ],
+  "wishlist": [
+
+  ],
+  "orders": [
+
+  ],
+  "contact":[
+    
+  ]
+}
